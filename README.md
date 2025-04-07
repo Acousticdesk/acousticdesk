@@ -6,7 +6,7 @@ Software Developer with 10 years of experience, located in Edmonton, Canada.
 Occasionally blogging at https://kycha-blog.org/
 
 - 🌱 **Currently Learning**: Generative AI, Advanced Data Structures and Algorithms.
-- 🎨 **Hobbies**: Creative writing, playing the guitar, listening the Blindboy Podcast
+- 🎨 **Hobbies**: Running, Playing the Guitar, Outdoor Cooking
 - ✍️ **Fun Fact**: I adore vicious chihuahuas!
 
 ## 🔧 Technologies & Tools
