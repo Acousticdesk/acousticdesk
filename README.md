@@ -10,7 +10,7 @@ Occasionally blogging at https://kycha-blog.org/
 - ✍️ **Fun Fact**: I adore vicious chihuahuas!
 
 ## 🔧 Technologies & Tools
-React, Remix, Next.js, Node.js, PostgreSQL, NoSQL, k8s, React Native, Python
+AI, React, Next.js, Node.js, PostgreSQL, NoSQL, k8s, React Native, Python
 
 ## 📫 Get in Touch
 - **Email**: [acousticdesk@gmail.com](mailto:acousticdesk@gmail.com)
