@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Andrii Kycha!
 
 ## 🚀 About Me
-Software Developer with 10 years of experience, located in Edmonton, Canada.
+Software Developer with 5 years of experience in building products and 3 years in AI-driven web applications.
+Located in Edmonton, Canada.
 
 Occasionally blogging at https://kycha-blog.org/
 
-- 🌱 **Currently Learning**: Generative AI, Advanced Data Structures and Algorithms.
-- 🎨 **Hobbies**: Running, Playing the Guitar, Outdoor Cooking
+- 🌱 **Currently Learning**: Generative AI, Advanced Data Structures and Algorithms, Modern CSS Motion.
+- 🎨 **Hobbies**: Singing/Guitar, Cooking, Running
 - ✍️ **Fun Fact**: I adore vicious chihuahuas!
 
 ## 🔧 Technologies & Tools
-AI, React, Next.js, Node.js, PostgreSQL, NoSQL, k8s, React Native, Python
+AI, React, Node.js, PostgreSQL, NoSQL, k8s, React Native, Python
 
 ## 📫 Get in Touch
 - **Email**: [acousticdesk@gmail.com](mailto:acousticdesk@gmail.com)
