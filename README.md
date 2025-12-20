@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrii Kycha!
 
 ## 🚀 About Me
-Software Developer with 5 years of experience in building products and 3 years in AI-driven web applications that solve real user problems.  
+Software Developer with 10+ years of experience in building products and 3 years in AI-driven web applications that solve real user problems.  
 Located in Edmonton, Canada.
 
 Occasionally blogging at https://kycha-blog.org/
