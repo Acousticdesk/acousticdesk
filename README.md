@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrii Kycha
 
-## 🚀 Senior Fullstack Engineer | AI Systems Builder
+## 🚀 Senior Fullstack Developer | AI Systems Builder
 
 I build **AI-powered products that ship to real users**
 
